@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<h3> Prednosti spletnega oglaševanja </h3>
+		<p> Prednosti spletnega oglaševanja so:
+<ol>1.	Merljivi rezultati: zberemo lahko rezultate o tem, ali se ljudje odzovejo na oglase na socialnih omrežjih, kolikokrat so oglase že videli, merimo lahko tudi mesečno število obiskovalcev spletne strani, koliko časa ljudje porabijo na spletni strani, katere strani so si ogledali in podobno.<br>
+	2.	Globalni doseg: oglašujemo lahko v kateri koli državi želimo, s tem pa povečamo prepoznavnost podjetja in privabljamo nove stranke.<br>
+	3.	Oglaševanje primernim ljudem: spletno oglaševanje nam omogoča, da oglašujemo le ljudem, za katere menimo, da so zainteresirani za izdelek.<br>
+	4.	Ugodna vrsta oglaševanja: veliko cenejša vrsta oglaševanja kot ostale.<br>
+	5.	Personalizirani oglasi: s takimi oglasi se lahko prilagodimo določeni skupini ljudi, to je tudi ključ do potrošnikovega uma in si tako zapomni podjetje, tako pa še dodatno povečamo možnosti, da bodo ljudje, kaj kupili.<br>
+	6.	Možnost A/B testiranja: spletne oglase lahko testiramo, da dosežemo večjo učinkovitost. Z opcijo A in B dobimo odgovor na vprašanja, kot so, katera slika privabi več ljudi, katero besedilo bi bilo bolj primerno in podobno.</ol>
+	</p>
+</html>

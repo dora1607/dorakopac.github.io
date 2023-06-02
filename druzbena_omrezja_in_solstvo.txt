@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<h3> Družbena omrežja in šolstvo </h3>
+		<p> Večina izobraževalnih ustanov ima svoje profile na družbenih omrežjih, recimo Facebook ali Instagram, z namenom, da bi razširili svojo dejavnost in prepoznavnost. Vendar pa se družbena omrežja zelo redko uporablja v procesu poučevanja, večinoma posamezni učitelji vpeljejo koncepte učenja s pomočjo tehnologije. Da bi se tehnologija uvedla pri pouku še ni zaslediti. Družbena omrežja lahko na različne načine pomaga učitelju v poučevanju. Omogoča boljšo komunikacijo med študenti in učitelje kot tudi med študenti samimi. Lažja objava gradiv, nalog in podobno. Boljša neposredna komunikacija s posamezniki ali skupino. Med sabo se lahko študentje in učitelji bolje spoznajo, s tem pa lahko tudi lažje prilagodijo gradivo, kakor bi njim bolj ustrezalo. Raziskave pa kažejo, da so študentje bolj odprti za vpeljavo uporabe družbenih omrežij v izobraževalne namene kot učitelji.
+		</p>
+		
+		<h4> Zadržki pred združitvijo družbenih omrežij in šolstva </h4>
+		<p>Glavni zadržki pred uporabo družbenih omrežij pa so izguba nadzora, zelo hitro pride do žaljivih, negativnih komentarjev. Drugi zadržek je čas, ki ga je potrebno vnesti za vzdrževanje učinkovitega družbenega omrežja. Naj bi bilo potrebno med 1 in 10 ur/teden za redno objavljanje, odgovarjanje in podobno. Še en zadržek pa je zloraba, saj ni nadzora nad tem kdo kaj objavlja, lahko pa objavljajo tudi z lažnimi identitetami. Pred povezovanjem učenja in družbenih omrežij pa bi bilo treba poučiti učitelje, kako to narediti.
+		</p>
+</html>

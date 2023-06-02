@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<h3> Vplivi na naše oglase </h3>
+		<p>Lahko so oglasi povezani z vsebino videa ali pa je to odvisno od informacij na Google profilu, recimo naša starost, spol in podobno. Vpliv imajo tudi druge aktivnosti na Googlovih storitvah, spletne strani, ki jih obiščemo, aplikacije, ki jih uporabljamo na napravi, informacije strani in aplikacij, ki so partnerji z Googlom in informacije od drugih partnerjev. Oglasi se pojavljajo tudi glede na všečkane in nevšečkane stvari. Oglase lahko kontroliramo v nastavitvah. Osebno prilagojeno oglaševanje pripomore tako uporabnikom kot tudi oglaševalcem. Uporabniki dobivajo večinoma le oglase, ki bi jih lahko zanimali.  
+		</p>
+</html>

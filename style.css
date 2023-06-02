@@ -1,0 +1,128 @@
+a{
+	text-decoration: none;
+	color:black;
+	font-size:20px;
+}
+/*linki niso podčrtani, napisani s črno, velikost 20px*/
+
+head{
+	background-color:black;
+	
+}
+/*v glavi je podlaga črna*/
+
+
+p {
+
+	text-align: left;
+
+	font-size: 20px;
+
+	margin:5px;
+
+}
+/*odstavki so poravnani na levo, velikost pisave je 2opx in odmik od roba je 5px*/
+
+h1{
+
+	font-size: 24px;
+
+	color: white;
+
+	text-align: center;
+
+}
+/*velikost naslova je 24px, bele barve, poravnan na sredino*/
+
+
+h3{
+
+	font-size: 22px;
+
+	text-align: left;
+
+}
+/*podnaslov je velikosti 22px, poravnan na levo*/
+
+body{
+
+	background-color:  beige;
+
+	color: #00495C;
+	float: left;
+	font-size:25px;
+
+}
+/*v telesu je ozadje bež barve, z določeno barvo besedila, z velikostjo 25px*/
+
+img{
+
+	float: right;
+
+	border-radius: 40px;
+
+	margin: 20px;
+	width:200px;
+	height:150px;
+
+}
+/*slike so poravnane na desno, v robovih so krive, odmaknjene 2opx, širina 200px in višina 150px*/
+
+header{
+
+	text-align: center;
+
+	padding: 5px;
+
+	background-color: gray;
+
+	color: white; 
+	font-size:25px;
+	
+}
+/*naslov je na sredini, ozadje sivo, besedilo belo, velikost 25px*/
+
+nav{
+
+	width: 200px;
+
+	height: 150px;
+
+	float: center;
+
+	padding: 5px;
+	
+	display:inline;
+
+}
+/*meni je velikosti 200x150, na sredini*/
+
+li{
+	list-style-type:none;
+	
+}
+/*meni nima pikc za neoštevilčen seznam*/
+
+section{
+
+	float: left;
+
+	padding:10px;
+
+}
+
+footer{
+
+	text-align: center;
+
+	padding:5px;
+
+	clear:both;
+
+	background-color:black;
+
+	color: white;
+
+}
+/*noga je črna, z belim napisom na sredini*/
+

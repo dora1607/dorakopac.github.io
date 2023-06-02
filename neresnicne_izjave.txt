@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<h3> Neresnične izjave</h3>
+		<p>Veliko ljudi uporablja internet za različne namene, pošiljanje sporočil, objavljanje slik, delitev mnenj, ali pa za sodelovanje v posvetovanjih o družbenih ali političnih temah ali glasovanjih, podpisalo peticije in podobno. Zaradi povečane uporabe pa se tudi pojavlja veliko neresničnih novic, kar so dvomljive ali neresnične informacije in vsebine. Resničnost takih izjav ljudje preverjajo na različne načine. Veliko jih izjavo preveri na drugi internetni strani, drugi to preverijo izven interneta, razpravljajo z drugimi ljudmi.
+		V prvih treh mesecih leta 2021 je internet uporabljalo 89% ljudi starih med 16 in 74 let. 58% jih je videlo neresnično ali dvomljivo objavo na družabnih omrežjih ali spletnih straneh, 37% je preverilo resničnost izjave, ostalih 39% pa jih je vedelo, da so podatki neresnični in, da je bil vir nezanesljiv. 
+		</p>
+</html>
